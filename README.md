@@ -17,3 +17,7 @@ Before you begin creating an application with this `devfile` code sample, it's h
 * For more information about devfiles, see [Devfile.io](https://devfile.io/).
 * For more information about the deployment outerloop, see [Devfile.io: Innerloop versus outerloop](https://devfile.io/docs/2.2.0/innerloop-vs-outerloop).
 * For more information about Dockerfiles, see [Dockerfile reference](https://docs.docker.com/engine/reference/builder/).
+
+
+
+
